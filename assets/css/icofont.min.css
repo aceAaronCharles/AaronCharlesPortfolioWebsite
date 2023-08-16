@@ -5,6 +5,7 @@
 * @copyright Copyright (c) 2015 - 2018 IcoFont 
 * @license - https://icofont.com/license/
 */
+@import "{{ site.theme }}";
 @font-face {
     font-family: IcoFont;
     font-weight: 400;
