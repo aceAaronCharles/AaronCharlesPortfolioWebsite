@@ -5,9 +5,9 @@ Templatecookie.com creates quality templates and php scripts. Templatecookie has
 
 > Minimal is a personal portfolio HTML template especially for UI/UX designer.
 
-Check the [Live Demo here](https://minimal-personal-portfolio.netlify.app/).
+Check the [Live Demo here](https://aceaaroncharles.github.io/AaronCharlesWebsite/).
 
-![](screenshot.png)
+
 
 ## Pages List
 - One Page Website (Landing Page)
